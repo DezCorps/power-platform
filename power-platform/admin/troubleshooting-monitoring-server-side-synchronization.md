@@ -23,7 +23,7 @@ search.app:
 
 This page is your source for issues and resolutions for troubleshooting server-side synchronization. Check back for updated information as issues are discovered and resolutions recorded.  
  
-## The Server-Side Snychronization Failures dashboard
+## The Server-Side Synchronization Failures dashboard
 
 Follow the steps in this [KB article](https://support.microsoft.com/help/4468755/troubleshoot-item-level-server-side-synchronization-issues-with-dynami) to enable and use a dashboard to get information on synchronization errors.
 
